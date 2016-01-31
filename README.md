@@ -1,5 +1,5 @@
 
-# openNLP-pywrapper
+# openNLP-python-wrapper
 A python wrapper for OpenNLP
 
 ## Example Usage
